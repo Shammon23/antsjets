@@ -82,5 +82,71 @@
     "slug": "luxury-gate-driveway",
     "path": "assets/images/ai-visuals/webp/luxury-gate-driveway.webp",
     "use": "gallery luxury home examples, high-value driveway ads"
+  },
+  {
+    "type": "image",
+    "slug": "gutter-clearing-before-after",
+    "path": "assets/images/ai-visuals/webp/gutter-clearing-before-after.webp",
+    "use": "service pages/blogs/gallery; Guttering cleaning before and after example"
+  },
+  {
+    "type": "image",
+    "slug": "roof-cleaning-moss-before-after",
+    "path": "assets/images/ai-visuals/webp/roof-cleaning-moss-before-after.webp",
+    "use": "service pages/blogs/gallery; Roof cleaning before and after example"
+  },
+  {
+    "type": "image",
+    "slug": "patio-repointing-before-after",
+    "path": "assets/images/ai-visuals/webp/patio-repointing-before-after.webp",
+    "use": "service pages/blogs/gallery; Patio repointing before and after example"
+  },
+  {
+    "type": "image",
+    "slug": "paving-repointing-path-before-after",
+    "path": "assets/images/ai-visuals/webp/paving-repointing-path-before-after.webp",
+    "use": "service pages/blogs/gallery; Paving repointing before and after example"
+  },
+  {
+    "type": "image",
+    "slug": "patio-repair-loose-slabs-before-after",
+    "path": "assets/images/ai-visuals/webp/patio-repair-loose-slabs-before-after.webp",
+    "use": "service pages/blogs/gallery; Patio repair before and after example"
+  },
+  {
+    "type": "image",
+    "slug": "high-pressure-jet-washing-clean-stripe",
+    "path": "assets/images/ai-visuals/webp/high-pressure-jet-washing-clean-stripe.webp",
+    "use": "service pages/blogs/gallery; High-pressure jet washing clean stripe example"
+  },
+  {
+    "type": "video",
+    "slug": "gutter-clearing-reveal-video",
+    "path": "assets/video/ai-visuals/gutter-clearing-reveal-video.mp4",
+    "use": "service page/gallery video for gutter"
+  },
+  {
+    "type": "video",
+    "slug": "roof-cleaning-reveal-video",
+    "path": "assets/video/ai-visuals/roof-cleaning-reveal-video.mp4",
+    "use": "service page/gallery video for roof"
+  },
+  {
+    "type": "video",
+    "slug": "patio-repointing-reveal-video",
+    "path": "assets/video/ai-visuals/patio-repointing-reveal-video.mp4",
+    "use": "service page/gallery video for repointing"
+  },
+  {
+    "type": "video",
+    "slug": "patio-repointing-reveal-video",
+    "path": "assets/video/ai-visuals/patio-repointing-reveal-video.mp4",
+    "use": "service page/gallery video for paving"
+  },
+  {
+    "type": "video",
+    "slug": "patio-repointing-reveal-video",
+    "path": "assets/video/ai-visuals/patio-repointing-reveal-video.mp4",
+    "use": "service page/gallery video for repair"
   }
 ]

@@ -4,3 +4,5 @@ assets/images/ai-visuals/*.png
 # Local preview/runtime files
 *.tmp
 assets/images/ai-visuals/luxury-batch/
+assets/images/ai-visuals/service-batch/
+assets/video/ai-visuals/service-batch/
