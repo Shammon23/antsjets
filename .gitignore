@@ -3,3 +3,4 @@ assets/images/ai-visuals/*.png
 
 # Local preview/runtime files
 *.tmp
+assets/images/ai-visuals/luxury-batch/

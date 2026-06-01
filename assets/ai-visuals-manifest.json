@@ -58,5 +58,29 @@
     "slug": "patio-clean-reveal-video",
     "path": "assets/video/ai-visuals/patio-clean-reveal-video.mp4",
     "use": "gallery, Meta ad test"
+  },
+  {
+    "type": "image",
+    "slug": "luxury-driveway-courtyard",
+    "path": "assets/images/ai-visuals/webp/luxury-driveway-courtyard.webp",
+    "use": "gallery luxury home examples, high-value driveway/patio ads"
+  },
+  {
+    "type": "image",
+    "slug": "luxury-front-block-drive",
+    "path": "assets/images/ai-visuals/webp/luxury-front-block-drive.webp",
+    "use": "gallery luxury home examples, driveway SEO/ad creative"
+  },
+  {
+    "type": "image",
+    "slug": "luxury-indian-sandstone-patio",
+    "path": "assets/images/ai-visuals/webp/luxury-indian-sandstone-patio.webp",
+    "use": "gallery luxury home examples, Indian sandstone patio ads"
+  },
+  {
+    "type": "image",
+    "slug": "luxury-gate-driveway",
+    "path": "assets/images/ai-visuals/webp/luxury-gate-driveway.webp",
+    "use": "gallery luxury home examples, high-value driveway ads"
   }
 ]
