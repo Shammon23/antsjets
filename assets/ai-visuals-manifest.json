@@ -1,0 +1,62 @@
+[
+  {
+    "type": "image",
+    "slug": "driveway-large-clean-stripe-guildford",
+    "path": "assets/images/ai-visuals/webp/driveway-large-clean-stripe-guildford.webp",
+    "use": "home proof image, gallery, driveway ads"
+  },
+  {
+    "type": "image",
+    "slug": "patio-large-garden-before-after",
+    "path": "assets/images/ai-visuals/webp/patio-large-garden-before-after.webp",
+    "use": "home proof strip, gallery, patio ads"
+  },
+  {
+    "type": "image",
+    "slug": "path-cleaning-side-return",
+    "path": "assets/images/ai-visuals/webp/path-cleaning-side-return.webp",
+    "use": "home proof strip, gallery, path cleaning page"
+  },
+  {
+    "type": "image",
+    "slug": "decking-cleaning-garden",
+    "path": "assets/images/ai-visuals/webp/decking-cleaning-garden.webp",
+    "use": "gallery, decking cleaning page"
+  },
+  {
+    "type": "image",
+    "slug": "commercial-forecourt-clean-stripe",
+    "path": "assets/images/ai-visuals/webp/commercial-forecourt-clean-stripe.webp",
+    "use": "gallery, commercial pressure washing page"
+  },
+  {
+    "type": "image",
+    "slug": "gutter-fascia-cleaning-closeup",
+    "path": "assets/images/ai-visuals/webp/gutter-fascia-cleaning-closeup.webp",
+    "use": "gallery, guttering cleaning page"
+  },
+  {
+    "type": "image",
+    "slug": "driveway-meta-vertical",
+    "path": "assets/images/ai-visuals/webp/driveway-meta-vertical.webp",
+    "use": "vertical Meta ad creative"
+  },
+  {
+    "type": "image",
+    "slug": "patio-meta-vertical",
+    "path": "assets/images/ai-visuals/webp/patio-meta-vertical.webp",
+    "use": "vertical Meta ad creative"
+  },
+  {
+    "type": "video",
+    "slug": "driveway-clean-reveal-video",
+    "path": "assets/video/ai-visuals/driveway-clean-reveal-video.mp4",
+    "use": "gallery, Meta ad test"
+  },
+  {
+    "type": "video",
+    "slug": "patio-clean-reveal-video",
+    "path": "assets/video/ai-visuals/patio-clean-reveal-video.mp4",
+    "use": "gallery, Meta ad test"
+  }
+]

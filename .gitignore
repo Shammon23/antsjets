@@ -1,0 +1,5 @@
+# Raw AI generation outputs are large; keep website-ready compressed assets in git.
+assets/images/ai-visuals/*.png
+
+# Local preview/runtime files
+*.tmp
