@@ -119,5 +119,33 @@
       "longitude": -0.5704
     },
     "usage": "Illustrative Ant's Jets service visual, not a verified customer job unless replaced with real asset."
+  },
+  {
+    "slug": "commercial-forecourt-large-before-after",
+    "path": "assets/images/ai-visuals/webp/commercial-forecourt-large-before-after.webp",
+    "caption": "Commercial forecourt pressure washing before and after example",
+    "contentLocation": "Guildford, Godalming and Surrey",
+    "type": "illustrative AI visual"
+  },
+  {
+    "slug": "commercial-shopfront-pavement-before-after",
+    "path": "assets/images/ai-visuals/webp/commercial-shopfront-pavement-before-after.webp",
+    "caption": "Commercial shopfront pavement cleaning before and after example",
+    "contentLocation": "Guildford, Godalming and Surrey",
+    "type": "illustrative AI visual"
+  },
+  {
+    "slug": "commercial-bin-yard-before-after",
+    "path": "assets/images/ai-visuals/webp/commercial-bin-yard-before-after.webp",
+    "caption": "Commercial bin yard and service area cleaning before and after example",
+    "contentLocation": "Guildford, Godalming and Surrey",
+    "type": "illustrative AI visual"
+  },
+  {
+    "slug": "commercial-school-playground-before-after",
+    "path": "assets/images/ai-visuals/webp/commercial-school-playground-before-after.webp",
+    "caption": "School or community paved area pressure washing before and after example",
+    "contentLocation": "Guildford, Godalming and Surrey",
+    "type": "illustrative AI visual"
   }
 ]

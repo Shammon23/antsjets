@@ -148,5 +148,29 @@
     "slug": "patio-repointing-reveal-video",
     "path": "assets/video/ai-visuals/patio-repointing-reveal-video.mp4",
     "use": "service page/gallery video for repair"
+  },
+  {
+    "type": "image",
+    "slug": "commercial-forecourt-large-before-after",
+    "path": "assets/images/ai-visuals/webp/commercial-forecourt-large-before-after.webp",
+    "use": "commercial pressure washing page, gallery, home/service commercial sections"
+  },
+  {
+    "type": "image",
+    "slug": "commercial-shopfront-pavement-before-after",
+    "path": "assets/images/ai-visuals/webp/commercial-shopfront-pavement-before-after.webp",
+    "use": "commercial shopfront/entrance cleaning sections and gallery"
+  },
+  {
+    "type": "image",
+    "slug": "commercial-bin-yard-before-after",
+    "path": "assets/images/ai-visuals/webp/commercial-bin-yard-before-after.webp",
+    "use": "commercial bin yard/service area cleaning sections and gallery"
+  },
+  {
+    "type": "image",
+    "slug": "commercial-school-playground-before-after",
+    "path": "assets/images/ai-visuals/webp/commercial-school-playground-before-after.webp",
+    "use": "commercial school/community paved area cleaning gallery"
   }
 ]
