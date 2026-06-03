@@ -3,13 +3,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Redirecting to pressure-washing-hampshire.html | Ant's Jets</title>
+  <title>Redirecting | Ant's Jets</title>
   <meta name="robots" content="noindex, follow">
-  <link rel="canonical" href="pressure-washing-hampshire.html">
-  <meta http-equiv="refresh" content="0; url=pressure-washing-hampshire.html">
+  <link rel="canonical" href="pressure-washing-liphook.html">
+  <meta http-equiv="refresh" content="0; url=pressure-washing-liphook.html">
 </head>
 <body>
-  <p>Redirecting to <a href="pressure-washing-hampshire.html">pressure-washing-hampshire.html</a>.</p>
-  <script>window.location.replace('pressure-washing-hampshire.html');</script>
+  <p>Redirecting to <a href="pressure-washing-liphook.html">pressure-washing-liphook.html</a>.</p>
+  <script>window.location.replace('pressure-washing-liphook.html');</script>
 </body>
 </html>
