@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Redirecting | Ant's Jets</title>
+  <meta name="robots" content="noindex, follow">
+  <style>
+    body{font-family:Arial,sans-serif;margin:0;background:#f8fafc;color:#111827;display:grid;min-height:100vh;place-items:center;padding:24px}
+    main{max-width:680px;background:#fff;border:1px solid #dbe4ee;border-radius:18px;padding:28px;box-shadow:0 18px 50px rgba(15,31,51,.08)}
+    a{color:#0085b9;font-weight:700}.muted{color:#526173}
+  </style>
+  <script>
+    (function(){
+      var legacy = {
+      "areas-covered.php": "service-areas.html",
+      "ascot.php": "pressure-washing-ascot.html",
+      "blog-post-1-jet-washing.php": "blog-graffiti-removal-jet-washing.html",
+      "blog-post-2-pressure-washing.php": "blog-pressure-washing-before-selling-house.html",
+      "blog.php": "blog.html",
+      "contact-us.php": "contact.html",
+      "cranleigh.php": "pressure-washing-cranleigh.html",
+      "decking-cleaning.php": "decking-cleaning.html",
+      "driveway-cleaning.php": "driveway-cleaning.html",
+      "farnham.php": "pressure-washing-farnham.html",
+      "fleet.php": "pressure-washing-fleet.html",
+      "frimley.php": "pressure-washing-frimley.html",
+      "gallery.php": "gallery.html",
+      "godalming.php": "pressure-washing-godalming.html",
+      "guildford.php": "pressure-washing-guildford.html",
+      "gutter-cleaning.php": "guttering-cleaning.html",
+      "guttering-cleaning.php": "guttering-cleaning.html",
+      "haslemere.php": "pressure-washing-haslemere.html",
+      "high-pressure-jet-washing.php": "high-pressure-jet-washing.html",
+      "hindhead.php": "pressure-washing-hindhead.html",
+      "horsham.php": "pressure-washing-horsham.html",
+      "index.php": "index.html",
+      "liphook.php": "pressure-washing-liphook.html",
+      "path-cleaning.php": "path-cleaning.html",
+      "patio-cleaning.php": "patio-cleaning.html",
+      "patio-repointing.php": "patio-repointing.html",
+      "roof-cleaning.php": "roof-cleaning.html",
+      "site-map.php": "sitemap.xml",
+      "weybridge.php": "pressure-washing-weybridge.html"
+};
+      var path = window.location.pathname || '/';
+      var file = decodeURIComponent(path.split('/').pop() || '');
+      var target = legacy[file];
+      var base = window.location.hostname.endsWith('github.io') ? '/antsjets/' : '/';
+      if (target) {
+        window.location.replace(base + target + window.location.search + window.location.hash);
+      } else {
+        window.location.replace(base);
+      }
+    })();
+  </script>
+</head>
+<body>
+  <main>
+    <h1>Taking you to the right Ant's Jets page</h1>
+    <p class="muted">The page link you opened is from the old website. The new website has moved to updated page addresses.</p>
+    <p>If you are not redirected automatically, <a id="fallback" href="/">go to the Ant's Jets homepage</a>.</p>
+  </main>
+  <script>
+    (function(){
+      var legacy = {
+      "areas-covered.php": "service-areas.html",
+      "ascot.php": "pressure-washing-ascot.html",
+      "blog-post-1-jet-washing.php": "blog-graffiti-removal-jet-washing.html",
+      "blog-post-2-pressure-washing.php": "blog-pressure-washing-before-selling-house.html",
+      "blog.php": "blog.html",
+      "contact-us.php": "contact.html",
+      "cranleigh.php": "pressure-washing-cranleigh.html",
+      "decking-cleaning.php": "decking-cleaning.html",
+      "driveway-cleaning.php": "driveway-cleaning.html",
+      "farnham.php": "pressure-washing-farnham.html",
+      "fleet.php": "pressure-washing-fleet.html",
+      "frimley.php": "pressure-washing-frimley.html",
+      "gallery.php": "gallery.html",
+      "godalming.php": "pressure-washing-godalming.html",
+      "guildford.php": "pressure-washing-guildford.html",
+      "gutter-cleaning.php": "guttering-cleaning.html",
+      "guttering-cleaning.php": "guttering-cleaning.html",
+      "haslemere.php": "pressure-washing-haslemere.html",
+      "high-pressure-jet-washing.php": "high-pressure-jet-washing.html",
+      "hindhead.php": "pressure-washing-hindhead.html",
+      "horsham.php": "pressure-washing-horsham.html",
+      "index.php": "index.html",
+      "liphook.php": "pressure-washing-liphook.html",
+      "path-cleaning.php": "path-cleaning.html",
+      "patio-cleaning.php": "patio-cleaning.html",
+      "patio-repointing.php": "patio-repointing.html",
+      "roof-cleaning.php": "roof-cleaning.html",
+      "site-map.php": "sitemap.xml",
+      "weybridge.php": "pressure-washing-weybridge.html"
+};
+      var file = decodeURIComponent((window.location.pathname || '/').split('/').pop() || '');
+      var target = legacy[file] || '';
+      var base = window.location.hostname.endsWith('github.io') ? '/antsjets/' : '/';
+      document.getElementById('fallback').href = base + target;
+    })();
+  </script>
+</body>
+</html>
