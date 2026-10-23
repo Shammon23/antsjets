@@ -48,10 +48,11 @@ test('browser: consent gates requests, click events, visibility, withdrawal and 
     await s.page.waitForFunction(()=>AntsJetsAnalytics.status().allowed);
     await s.page.locator('a[href^="tel:"]').first().evaluate(a=>{a.addEventListener('click',e=>e.preventDefault());a.click();});
     await s.page.locator('a[href^="sms:"]').first().evaluate(a=>{a.addEventListener('click',e=>e.preventDefault());a.click();});
+    await s.page.locator('a[data-contact="whatsapp"]').first().evaluate(a=>{a.addEventListener('click',e=>e.preventDefault());a.click();});
     await s.page.locator('iframe').scrollIntoViewIfNeeded();
     await s.page.waitForTimeout(150);
     const names=s.payloads.map(p=>p.payload.name);
-    assert.ok(names.includes('call_click'));assert.ok(names.includes('text_click'));
+    assert.ok(names.includes('call_click'));assert.ok(names.includes('text_click'));assert.equal(names.filter(n=>n==='whatsapp_click').length,1);
     assert.ok(s.payloads.some(p=>p.payload.name==='quote_form_open'&&p.payload.data.source==='iframe_visible'));
     assert.ok(!names.includes('form_submit'));
     const before=s.payloads.length;
